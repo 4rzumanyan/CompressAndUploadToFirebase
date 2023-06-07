@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "946604278631",
+    "project_id": "mediacompressor-6e932",
+    "storage_bucket": "mediacompressor-6e932.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:946604278631:android:310665ea6f553d6930e5c2",
+        "android_client_info": {
+          "package_name": "com.example.mediacompressor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "946604278631-j8udb4li13mm7e7u1g4pgm2ik25g9vdq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvhOK31CI6iubOIFPIYQAq5NTpJLS90hw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "946604278631-j8udb4li13mm7e7u1g4pgm2ik25g9vdq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:946604278631:android:fd75ec28fb19a03230e5c2",
+        "android_client_info": {
+          "package_name": "com.test.digitec"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "946604278631-j8udb4li13mm7e7u1g4pgm2ik25g9vdq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvhOK31CI6iubOIFPIYQAq5NTpJLS90hw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "946604278631-j8udb4li13mm7e7u1g4pgm2ik25g9vdq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
